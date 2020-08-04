@@ -1,0 +1,30 @@
+div
+{
+    border-radius: 18px;
+    }
+#header
+{
+    position: fixed;
+    z-index: 1;
+    height:40px;
+    width: 98%;
+    background-color: blue;
+    margin-bottom: 10px
+    }
+
+#name {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 18px;
+	font-family: arial black;
+	color: #ffffff;
+}
+#contact {
+    float:left;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-family:arial black;
+    color: #ffffff;
+}
